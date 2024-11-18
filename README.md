@@ -1,9 +1,13 @@
 # Hello folks!
-I'm a newbie in just about everything, so first thank you for giving this a read!
+Thank you for reading this!
 
-I work at [Ridepanda](https://www.ridepanda.com/), mainly coding on Ruby on Rails and React.
+## What am I up to right now?
+I work at [Ridepanda](https://www.ridepanda.com/), coding on Ruby (Rails) & React (Typescript/NextJS).
 
-Previously at [Emeritus](https://emeritus.org/) and [Shipit](https://www.shipit.cl/), working with Ruby on Rails and React.
+## Previous jobs
+[Emeritus](https://emeritus.org/) and [Shipit](https://www.shipit.cl/).
 
+## About me
+I enjoy chatting about all things tech, D&D adventures, sharing (hopefully cool, mostly random) facts, and getting lost in novels -especially fantasy and Wuxia!-.
 
-I love talking about tech, procrastination, coffee, and Wuxia novels, so feel free to hit me up at [zamiz@zeaneth.com](mailto:zamiz@zeaneth.com) with any topics or feedback on what you see over here or on [twitter/x](https://twitter.com/ZamizTo).
+Feel free to hit me up at [zamiz@zeaneth.com](mailto:zamiz@zeaneth.com) with any projects/topics or feedback on what you see over here or on [twitter/x](https://twitter.com/ZamizTo).
